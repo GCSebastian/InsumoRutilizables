@@ -1,0 +1,7 @@
+{
+  "name": "InsumoRutilizables",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
