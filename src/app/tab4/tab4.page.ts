@@ -8,7 +8,7 @@ import { Component, OnInit } from '@angular/core';
 export class Tab4Page implements OnInit {
 
   
-  colores = ['#FF5733', '#33FF57', '#5733FF', '#FF3333', '#33FFFF'];
+  colores = ["#FF5733", "#33FF57", "#5733FF", "#FF3333", "#33FFFF"];
 
   constructor() { }
 
